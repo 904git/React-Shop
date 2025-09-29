@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/React-Shop/static/css/main.70102457.css",
-    "main.js": "/React-Shop/static/js/main.cd3d24cc.js",
-    "static/js/453.2a86c8f1.chunk.js": "/React-Shop/static/js/453.2a86c8f1.chunk.js",
-    "static/media/bg.png": "/React-Shop/static/media/bg.616f307c169b743ff920.png",
-    "index.html": "/React-Shop/index.html",
-    "main.70102457.css.map": "/React-Shop/static/css/main.70102457.css.map",
-    "main.cd3d24cc.js.map": "/React-Shop/static/js/main.cd3d24cc.js.map",
-    "453.2a86c8f1.chunk.js.map": "/React-Shop/static/js/453.2a86c8f1.chunk.js.map"
+    "main.css": "/React-Shop.github.io/static/css/main.70102457.css",
+    "main.js": "/React-Shop.github.io/static/js/main.5ec560af.js",
+    "static/js/453.2a86c8f1.chunk.js": "/React-Shop.github.io/static/js/453.2a86c8f1.chunk.js",
+    "static/media/bg.png": "/React-Shop.github.io/static/media/bg.616f307c169b743ff920.png",
+    "index.html": "/React-Shop.github.io/index.html",
+    "main.70102457.css.map": "/React-Shop.github.io/static/css/main.70102457.css.map",
+    "main.5ec560af.js.map": "/React-Shop.github.io/static/js/main.5ec560af.js.map",
+    "453.2a86c8f1.chunk.js.map": "/React-Shop.github.io/static/js/453.2a86c8f1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.70102457.css",
-    "static/js/main.cd3d24cc.js"
+    "static/js/main.5ec560af.js"
   ]
 }
